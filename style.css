@@ -1,0 +1,104 @@
+.title{
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 178% */
+
+letter-spacing: 0.02em;
+
+/* Grey/900 - Text primary black */
+
+color: #555555;
+
+}
+
+
+.new-var{
+
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+text-align: right;
+letter-spacing: 0.02em;
+
+/* Primary/500 */
+
+color: #0075D8;
+
+}
+
+.colhead{
+    position: static;
+    width: 38px;
+    height: 24px;
+    left: 16px;
+    top: 16px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+/* identical to box height, or 171% */
+
+    letter-spacing: 0.02em;
+
+/* Grey/900 - Text primary black */
+
+    color: #555555;
+}
+
+.search{
+    position: static;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+
+/* Grey/800 - Dropdown Icons */
+
+color: #808080;
+
+
+/* Inside auto layout */
+
+
+margin: 0px 10px;
+margin-left:0px;
+}
+
+.col{
+    margin-bottom: 14px !important;
+
+    position: static;
+width: 133px;
+height: 24px;
+left: 16px;
+top: 16px;
+
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.02em;
+white-space: nowrap;
+/* Grey/900 - Text primary black */
+
+color: #555555;
+
+}
